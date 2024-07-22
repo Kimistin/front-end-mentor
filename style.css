@@ -1,0 +1,123 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+    font-family: "outfit", sans-serif;
+    width: 1440px;
+}
+
+img {
+    width: 100%;
+    align-self: center;
+    border-radius: 20px;
+    padding-top: 5px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    background-color: hsl(0, 0%, 100%);
+    justify-content: center;
+    align-items: flex-start;
+    margin: 30% 0% 15% 30%;
+    border: 30px solid hsl(0, 0%, 100%);
+    border-radius: 20px;
+}
+
+.sub {
+    color: hsl(0, 0%, 0%);
+    background-color: hsl(330, 100%, 98%);
+    width: 94.6%;
+    border-radius: 20px;
+    font-family: "Young Seriff", sans-serif;
+    padding: 15px;
+    line-height: 25px;
+    margin: 0 0 20px 0;
+}
+
+.lainehai {
+    line-height: 27px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.sumt {
+    color: hsl(332, 51%, 32%);
+    font-size: 19px;
+    font-weight: 700;
+    position: relative;
+    right: 20px;
+    letter-spacing: -0.8px;
+}
+
+.line {
+    border-bottom: 1px solid rgb(191, 191, 191);
+    padding-bottom: 19px;
+    width: 90%;
+    padding-bottom: 24px;
+}
+
+.sizing {
+    font-size: 13px;
+    margin: 10px 0 30px 0;
+}
+
+.uh {
+    margin: 30px 0px 15px 0px;
+    font-family: "young serif";
+}
+
+.padli {
+ position: relative;
+ left: 10px;
+ font-size: 15px;
+ letter-spacing: -0.6px;
+}
+
+li {
+    line-height: 20px;
+    padding-top: 5px;
+}
+
+li::marker{
+color:  hsl(14, 45%, 36%);
+}
+
+.cool {
+    color:  hsl(14, 45%, 36%);
+    font-weight: 900;
+    font-size: 25px;
+    padding-top: 10px;
+    font-family: "young serif";
+    letter-spacing: -0.5px;
+}
+
+table {
+    width: 100%;
+}
+td {
+    border-bottom: solid 1px black;
+    padding: 10px 0 10px 25px;
+}
+
+.noone {
+    border-bottom: solid 1px white;
+}
+
+.jf {
+    color: hsl(14, 45%, 36%);
+    font-weight: 900;
+    letter-spacing: -1px;
+}
+
+.fuck {
+    font-size: 15px;
+    margin-top: 0%;
+}
+
+.sel {
+    margin-bottom: x;
+    margin-top: 0%;
+    color: hsl(14, 45%, 36%);
+}
